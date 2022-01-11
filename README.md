@@ -18,7 +18,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/asishkumar-gouda-b6a992205/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 <a href="mailto:gouda0682@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-840010?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="mailto:asihkumar.g@somaiya.edu" target="_blank"><img src="https://img.shields.io/badge/Gmail-840010?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="mailto:asishkumar.g@somaiya.edu" target="_blank"><img src="https://img.shields.io/badge/Gmail-840010?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://t.me/Asishkumar_Gouda"><img height="30" src="https://img.shields.io/badge/telegram-0769AD?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/_aaasishh_10/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
