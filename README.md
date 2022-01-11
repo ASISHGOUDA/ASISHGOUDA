@@ -13,7 +13,7 @@
 </p>
 <br><br><br>
 <p align="center">
-  <b><i>Let's connect , find me on the Internet </i></b>
+<b><i>Let's connect , find me on the Internet <i></b>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/asishkumar-gouda-b6a992205/"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
