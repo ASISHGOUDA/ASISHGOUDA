@@ -7,8 +7,9 @@
     <img src="https://badges.pufler.dev/years/ASISHGOUDA" />
     <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ASISHGOUDA">
-    <img src="https://badges.pufler.dev/repos/ASISHGOUDA" />
+    <img src="https://badges.pufler.dev/updated/ASISHGOUDA/ASISHGOUDA" />
   </p>
+    
   </samp>
 </p>
 <br><br><br>
@@ -38,9 +39,9 @@
 
 <p align="center">
 <a href="https://github.com/ASISHGOUDA">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=ASISHGOUDA&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="Purvi Harniya | Stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=ASISHGOUDA&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="ASISH GOUDA | Stats" />
 </a> <a href="https://github.com/ASISHGOUDA">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASISHGOUDA&hide=html,css,tsql&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="Purvi Harniya | Top Languages" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASISHGOUDA&hide=html,css,tsql&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=daf7dc&icon_color=ffffff&bg_color=151515" alt="ASISH GOUDA | Top Languages" />
 </a>
 <br>
 
