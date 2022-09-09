@@ -2,15 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Asishkumar</h1>
 <h3 align="center">I'm a Developer from India.</h3>
-    
-  <p align=center>
-    <img src="https://badges.pufler.dev/years/ASISHGOUDA" />
-    <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ASISHGOUDA">
-    <img src="https://badges.pufler.dev/updated/ASISHGOUDA/ASISHGOUDA" />
-  </p>
-    
-  </samp>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=ASISHGOUDA&label=Profile%20views&color=0e75b6&style=flat" alt="ASISHGOUDA" />
 </p>
 <br><br><br>
 <p align="center">
