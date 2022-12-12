@@ -2,9 +2,10 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Asishkumar</h1>
 <h3 align="center">I'm a Developer from India.</h3>
+<br>
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=ASISHGOUDA&label=Profile%20views&color=0e75b6&style=flat" alt="ASISHGOUDA" />
 </p>
-<br><br><br>
+<br>
 <p align="center">
 <b><i>Let's connect , find me on the Internet <i></b>
 
@@ -37,12 +38,6 @@
 </a>
 <br>
 
-
-<p align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=ASISHGOUDA&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-</p>
-</p>
-<br>
 
 ---
 
