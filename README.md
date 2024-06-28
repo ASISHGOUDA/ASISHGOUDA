@@ -66,8 +66,11 @@
     <a href="https://www.linux.org/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/></a>
     <a href="https://dribbble.com/" target="_blank">  <img src="https://img.icons8.com/fluency/48/000000/dribbble.png"/></a>
     <a href="https://www.android.com/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/android-os.png"/></a>
-
-
+    <a href="https://www.android.com/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/golang.png"/></a>
+    <a href="https://www.android.com/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/></a>
+    <a href="https://www.android.com/" target="_blank">  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-docker-a-set-of-coupled-software-as-a-service-logo-color-tal-revivo.png"/></a>
+    
+    
     
     
 </p>
