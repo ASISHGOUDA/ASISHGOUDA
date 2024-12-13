@@ -65,10 +65,23 @@
     <a href="https://jupyter.org/" target="_blank">  <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/></a>
     <a href="https://www.linux.org/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/></a>
     <a href="https://dribbble.com/" target="_blank">  <img src="https://img.icons8.com/fluency/48/000000/dribbble.png"/></a>
-    <a href="https://www.android.com/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/android-os.png"/></a>
-    <a href="https://go.dev/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/golang.png"/></a>
-    <a href="https://kubernetes.io/" target="_blank">  <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/></a>
-    <a href="https://www.docker.com/" target="_blank">  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-docker-a-set-of-coupled-software-as-a-service-logo-color-tal-revivo.png"/></a>
+    <a href="https://www.android.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="android-os"/></a>
+<a href="https://aws.amazon.com/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/></a>
+<a href="https://cloud.google.com/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/google-compute-engine.png" alt="google-compute-engine"/></a>
+<a href="https://azure.microsoft.com/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-development-experience-through-the-native-integrations-of-azure-with-visual-studio-logo-shadow-tal-revivo.png" alt="azure"/></a>
+<a href="https://go.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png" alt="golang"/></a>
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes"/></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/fluency/48/bash.png" alt="bash"/></a>
+<a href="https://www.terraform.io/" target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/terraform.png" alt="terraform"/></a>
+<a href="https://prometheus.io/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/color/48/prometheus-app.png" alt="prometheus"/></a>
+<a href="https://grafana.com/" target="_blank">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/grafana.png" alt="grafana"/>
+</a>
+
+    
+        
+    
     
     
     
